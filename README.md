@@ -1,5 +1,5 @@
 # AngularRateInversion
-Incease rate and invert the VOR gain of the visual scene in a HMD
+Increase rate and invert the VOR gain of the visual scene in a HMD
 
 
 This project explores the effects on symmetry changes between UV to 3D mappings. 
